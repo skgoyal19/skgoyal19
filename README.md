@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skgoyal19
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internship in data science and machine learnig.
 - 📫 How to reach me 19.skgoyal@gmail.com
 
 <!---
